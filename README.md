@@ -2,7 +2,11 @@
 DMS332 Final Project
 
 Title:
-Pitch:
+Pitch: 3D Frogger/Crossy Road
 Audience and genre:
 Synopsis:
--Theme
+-Theme:
+-Goals:
+-Mechanics:
+-Uniqueness:
+Flowboard:
