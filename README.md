@@ -17,4 +17,4 @@ Audience and genre: 3D Platformer Game for people who enjoy the challenge of pla
 
 -Uniqueness: Frogger and Crossy Road with the mix of 3D elements and a jump button
 
-Flowboard: 
+Flowboard: The player will reach the end where the gate will be, but there are "cars" (might change) and other obstacles. The player also needs to obtain the keys along their way to open the gate.
